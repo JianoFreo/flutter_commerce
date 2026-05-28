@@ -32,6 +32,97 @@ A lightweight local marketplace demo with a Node.js + Express backend and a Flut
   - Theme selection available on start, auth, and profile screens
 - Guest mode with navigation (Shop / Cart / Profile). Cart/Profile show sign-in prompts for guests.
 
+<table>
+<tr>
+<td align="center">
+
+<img width="424" height="899" alt="image" src="https://github.com/user-attachments/assets/54cc9006-bce6-4d37-b071-b950eb72cd41" />
+</td>
+
+<td align="center">
+
+
+<img width="420" height="874" alt="image" src="https://github.com/user-attachments/assets/ead911fd-38ea-47b2-a04c-eb7ce8ca22e6" />
+
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td align="center">
+
+<img width="429" height="897" alt="image" src="https://github.com/user-attachments/assets/f411037c-57e2-484c-8db4-5b0adebe58b2" />
+</td>
+
+<td align="center">
+
+
+<img width="420" height="874" alt="image" src="https://github.com/user-attachments/assets/ead911fd-38ea-47b2-a04c-eb7ce8ca22e6" />
+
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td align="center">
+
+<img width="419" height="890" alt="image" src="https://github.com/user-attachments/assets/812fbb91-3523-461b-bc9f-cfe36ad2b999" />
+</td>
+
+<td align="center">
+
+<img width="412" height="894" alt="image" src="https://github.com/user-attachments/assets/7708d00f-7323-440f-9cd3-909cd50257b2" />
+
+
+</td>
+</tr>
+</table>
+</table>
+<table>
+<tr>
+<td align="center">
+
+<img width="415" height="896" alt="image" src="https://github.com/user-attachments/assets/2e8d9a2c-a1d0-4f09-bad6-1380b94e1c9c" />
+</td>
+
+<td align="center">
+
+<img width="418" height="891" alt="image" src="https://github.com/user-attachments/assets/12c4501c-cf7b-443b-a8d0-cdf34b431eb0" />
+
+
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td align="center">
+
+<img width="412" height="890" alt="image" src="https://github.com/user-attachments/assets/af7f3ee1-32ff-4151-b395-d4939cd31a44" />
+</td>
+
+<td align="center">
+
+<img width="417" height="895" alt="image" src="https://github.com/user-attachments/assets/a173b1bb-90a0-476e-94f7-dbcbe0d3ad40" />
+
+
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td align="center">
+
+<img width="415" height="896" alt="image" src="https://github.com/user-attachments/assets/fa7418d1-828b-4f0f-9603-c16bfd19936a" />
+</td>
+
+<td align="center">
+
+<img width="413" height="898" alt="image" src="https://github.com/user-attachments/assets/8f7d6785-fd3b-4106-89f3-467a1ab247b4" />
+
+
+</td>
+</tr>
+</table>
 
 ## Requirements (fresh machine)
 - Node.js (LTS, e.g., >= 18)
